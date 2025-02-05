@@ -1,0 +1,10 @@
+{
+  "version": "0.1.0",
+  "notes": "First Version",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "",
+      "url": "https://github.com/OhSCbrr/ohsc/releases/download/0.1.0/OhSC-x64-setup.nsis.zip"
+    }
+  }
+}
