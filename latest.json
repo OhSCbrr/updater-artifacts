@@ -1,10 +1,10 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "notes": "First Version",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT29BNFVMcnovTENsUWwzVjQyVGxCNlNQdGM3dGF6N3k3c3AvZk55OEVlQWUwZmlNVG9lcG9ud2taK2FxMzNVVnRmM2FTL1dyejhTZ21wT1h5OE1jZnhIK3BHVytOdHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM4OTAwMzQ3CWZpbGU6T2hTQ18wLjEuMF94NjRfZW4tVVMubXNpCjYyYm5QMWNZKzc1Z05idkNwRTQ5VnhWd093cVQwSFBGaEU4N2dTZ2VnUGFrMHgva0VXRHNxdlQrVmxtQUhmL1RoUnpZOWRLYU5NZ2YyU2NQRDJIQ0NRPT0K",
-      "url": "https://github.com/OhSCbrr/ohsc/releases/download/0.1.0/OhSC_0.1.0_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT29BNFVMcnovTE01eXRzb1dTa1g4OE9NTkdqTC9sNFJHeWx1b25BS1RNR2tGZjg3OC95Q3VacWJBdVJlcVh0VHNZN3BPWFc3NXlQYllPamdrT3JVYk9wSUZaV1Zxanc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM4OTAyMjQ5CWZpbGU6T2hTQ18wLjEuMV94NjRfZW4tVVMubXNpCjgwem9oU25qbmRUaFh4T3p4Q201NFNESVdCbWJzV2lXMEs0L2dUYmZJdnlGWml2R3MzQ2lZanp3RzFVL1krYXpSUEgyN3UraDhDUlZUUXdNMVFQWUFBPT0K",
+      "url": "https://github.com/OhSCbrr/ohsc/releases/download/0.1.1/OhSC_0.1.1_x64_en-US.msi"
     }
   }
 }
