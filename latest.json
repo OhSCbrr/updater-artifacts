@@ -3,8 +3,8 @@
   "notes": "First Version",
   "platforms": {
     "windows-x86_64": {
-      "signature": "",
-      "url": "https://github.com/OhSCbrr/ohsc/releases/download/0.1.0/OhSC-x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT29BNFVMcnovTENsUWwzVjQyVGxCNlNQdGM3dGF6N3k3c3AvZk55OEVlQWUwZmlNVG9lcG9ud2taK2FxMzNVVnRmM2FTL1dyejhTZ21wT1h5OE1jZnhIK3BHVytOdHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM4OTAwMzQ3CWZpbGU6T2hTQ18wLjEuMF94NjRfZW4tVVMubXNpCjYyYm5QMWNZKzc1Z05idkNwRTQ5VnhWd093cVQwSFBGaEU4N2dTZ2VnUGFrMHgva0VXRHNxdlQrVmxtQUhmL1RoUnpZOWRLYU5NZ2YyU2NQRDJIQ0NRPT0K",
+      "url": "https://github.com/OhSCbrr/ohsc/releases/download/0.1.0/OhSC_0.1.0_x64_en-US.msi.zip"
     }
   }
 }
