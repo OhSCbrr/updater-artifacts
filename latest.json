@@ -3,8 +3,8 @@
   "notes": "Add Intiface server address",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT29BNFVMcnovTEhFNktLTTZPOVhsZ3ZCRzlVdXFoTWVUNFppWVY1Z2lsWG1FUisyQUxsSVR5WEJjME80VGcrMlkwZFNXdHF2SU8zbHk3MzN3MldsYS85ZDZoaU14MGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQxNTcxNDcwCWZpbGU6T2hTQ18wLjMuMF94NjRfZW4tVVMubXNpCmRTSmhhanpxazBnY21MVUxzUUMwc2h2SlpkanJGUFAycU1KOXBqSnYxNnBadzBOTFpxbUk1RXNHc0xBTVZIRmwwK2ZoamJqRnpMWVdFbWwyUkhDMkFRPT0K",
-      "url": "https://github.com/OhSCbrr/ohsc/releases/download/0.3.0/OhSC_0.3.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT29BNFVMcnovTE9naGxUQnBpUW1rSEFmaTV6WjYvUW8vSEQrRGVqSXJLMmFQby9XZlAwTTY3aVZRaUR6YTBCK1l4ZitNdmxuOXk5aXA1RWtnSHhiQWpTZVhKR1RIL1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0NTI0NTcyCWZpbGU6T2hTQ18wLjQuMF94NjRfZW4tVVMubXNpCjdkQ2hiOWk1YUhENUgwZHVtRmlPaDJYQkF0Zk50Uk9RWmt0Q2E0RzVrSzg4ZkFWQU1xTndmMzJ0N2JnbmE4ZGRZRWFkSHU1MUovT2p3dzJFQkIrUENnPT0K",
+      "url": "https://github.com/OhSCbrr/ohsc/releases/download/0.4.0/OhSC_0.4.0_x64_en-US.msi"
     }
   }
 }
