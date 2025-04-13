@@ -1,10 +1,10 @@
 {
-  "version": "0.3.0",
-  "notes": "Add Intiface server address",
+  "version": "0.4.0",
+  "notes": "Add Bhaptics integration and fix",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT29BNFVMcnovTEhFNktLTTZPOVhsZ3ZCRzlVdXFoTWVUNFppWVY1Z2lsWG1FUisyQUxsSVR5WEJjME80VGcrMlkwZFNXdHF2SU8zbHk3MzN3MldsYS85ZDZoaU14MGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQxNTcxNDcwCWZpbGU6T2hTQ18wLjMuMF94NjRfZW4tVVMubXNpCmRTSmhhanpxazBnY21MVUxzUUMwc2h2SlpkanJGUFAycU1KOXBqSnYxNnBadzBOTFpxbUk1RXNHc0xBTVZIRmwwK2ZoamJqRnpMWVdFbWwyUkhDMkFRPT0K",
-      "url": "https://github.com/OhSCbrr/ohsc/releases/download/0.3.0/OhSC_0.3.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT29BNFVMcnovTElCYS9ZanlleCtuaFJXdmNaSnJNQ25zaFh3bVplVk9QVjYwQjNpRnBQcXJIaTRwZ1M2aTdJdk02Qks4UFRjOUNlbStvMkIrREdydjFrTmRpblZyYWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0NTI2NTA0CWZpbGU6T2hTQ18wLjQuMF94NjRfZW4tVVMubXNpCnVqQzV6TnB6NEhPaDk0VzhwMkdIUUFZVjZIUDBkMFVyQVI1Z1ZCZ0orNFVqTVBzNm1qQUFMZVl6SlpYMXREK2h2Q0U2Q0dKTEtHQ054bDAvR0ZQbERRPT0K",
+      "url": "https://github.com/OhSCbrr/ohsc/releases/download/0.4.0/OhSC_0.4.0_x64_en-US.msi"
     }
   }
 }
