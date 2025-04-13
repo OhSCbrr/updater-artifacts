@@ -1,6 +1,7 @@
 {
   "version": "0.4.0",
   "notes": "Add Bhaptics integration and fix",
+  "pub_date": "2025-04-13",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT29BNFVMcnovTElCYS9ZanlleCtuaFJXdmNaSnJNQ25zaFh3bVplVk9QVjYwQjNpRnBQcXJIaTRwZ1M2aTdJdk02Qks4UFRjOUNlbStvMkIrREdydjFrTmRpblZyYWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0NTI2NTA0CWZpbGU6T2hTQ18wLjQuMF94NjRfZW4tVVMubXNpCnVqQzV6TnB6NEhPaDk0VzhwMkdIUUFZVjZIUDBkMFVyQVI1Z1ZCZ0orNFVqTVBzNm1qQUFMZVl6SlpYMXREK2h2Q0U2Q0dKTEtHQ054bDAvR0ZQbERRPT0K",
